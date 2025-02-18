@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-OLÁ TUDO BEM MANITO
-=======
 OLÁ, TUDO BEM MANITO
->>>>>>> branch-b
